@@ -1,0 +1,39 @@
+.outside-container-vox{
+    /* border: 2px solid black; */
+    padding: 20px;
+    width: 1050px;
+    margin: 40px 0px 0px 330px;
+    
+}
+
+.inner-box-container{
+      display: flex;
+    flex-direction: row;
+}
+.input-billgenerator{
+    width: 220px;
+    margin: 5px 15px;
+    padding: 12px;
+    border: 1.2px solid black;
+}
+.items-box-billgenerator{
+    margin: 15px 0px;
+}
+.label-billgenerator{
+font-size: 13px;
+margin: 5px 15px;
+}
+.btn-billgenerator{
+        padding: 10px 19px;
+        background-color: #28a745;
+        width: 100px;
+        margin: 0px 0px 0px 20px;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+}
+.total-amount-bill{
+    font-size: 20px;
+    margin: 5px 0px;
+}
