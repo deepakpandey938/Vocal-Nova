@@ -156,7 +156,7 @@ const BillGenerator = () => {
             />
           </div>
           <div className="items-box-billgenerator">
-            <label className="label-billgenerator">Price (Per Unit)</label>
+            <label className="label-billgenerator">Price (Per Unit Price)</label>
          
             <input
               type="number"
