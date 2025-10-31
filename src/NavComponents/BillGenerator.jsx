@@ -181,7 +181,7 @@ const BillGenerator = () => {
             />
           </div>
           <div className="items-box-billgenerator">
-            <label className="label-billgenerator">Discount (%)</label>
+            <label className="label-billgenerator">Discount Percentage (%)</label>
          
             <input
               type="number"
