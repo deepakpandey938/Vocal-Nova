@@ -32,7 +32,7 @@ const TypingMaster = () => {
       "Frontend development involves creativity and logic",
       "A programmer is just a tool to turn caffeine into code",
       "In programming, the only constant is change",
-      "Debugging is like being the detective in a criminal movie",
+      "Debugging is like being the detective in a criminal movie's",
     ]
   ];
 
