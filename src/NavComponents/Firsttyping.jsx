@@ -276,7 +276,7 @@ const TypingMaster = () => {
         </>
       ) : (
         <div className="completion-message" style={{fontSize: "21px",marginBottom:"20px"}}>
-          🎉 Congratulations! You've completed the test.
+          Congratulations! You've completed the test.
           <div  style={{margin:"5px"}}>
             <strong>Accuracy:</strong> {accuracy}%
           </div>
