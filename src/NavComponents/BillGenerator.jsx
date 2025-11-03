@@ -244,7 +244,7 @@ const BillGenerator = () => {
                 </th>
                 <th style={{ textAlign: "left", padding: "8px" }}>Quantity</th>
                 <th style={{ textAlign: "left", padding: "8px" }}>
-                  Price (Per Unit)
+                  Price (Per Unit Price)
                 </th>
                 <th style={{ textAlign: "left", padding: "8px" }}>Tax (%)</th>
                 <th style={{ textAlign: "left", padding: "8px" }}>
