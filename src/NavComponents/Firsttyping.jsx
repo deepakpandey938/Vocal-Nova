@@ -28,7 +28,7 @@ const TypingMaster = () => {
       "Good software architecture is essential for scalable applications"
     ],
     [
-      "Code is like humor. When you have to explain it, it’s bad",
+      "Code is like humor. When you have to explain it, it’s not good (bad)",
       "Frontend development involves creativity and logic",
       "A programmer is just a tool to turn caffeine into code",
       "In programming, the only constant is change",
