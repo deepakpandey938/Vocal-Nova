@@ -21,7 +21,7 @@ const TypingMaster = () => {
       "Write clean code for others to read, not just for your self strong"
     ],
     [
-      "Developing with React is both fun and challenging for us",
+      "Developing with React is both fun and challenging for us right",
       "Mastering JavaScript can open many doors in web development",
       "JavaScript is versatile and widely used",
       "Building dynamic UIs is a key skill for frontend developers",
