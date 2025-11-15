@@ -25,7 +25,7 @@ const TypingMaster = () => {
       "Mastering JavaScript can open many doors in web development",
       "JavaScript is versatile and widely used",
       "Building dynamic UIs is a key skill for frontend developers",
-      "Good software architecture is essential for scalable applications"
+      "Good software architecture is essential for scalable applications."
     ],
     [
       "Code is like humor. When you have to explain it, it’s not good (bad) depends",
