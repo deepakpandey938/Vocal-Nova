@@ -17,7 +17,7 @@ const TypingMaster = () => {
     [
       "The quick brown fox jumps over the lazy dog",
       "Typing fast is a skill's that requires practice",
-      "Practice is the key to becoming a faster typist",
+      "Practice is the key to becoming a faster typist.",
       "Write clean code for others to read, not just for your self strong."
     ],
     [
