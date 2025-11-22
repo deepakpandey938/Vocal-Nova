@@ -15,7 +15,7 @@ const TypingMaster = () => {
 
   const typingSessions = [
     [
-      "The quick brown fox jumps over the lazy dog",
+      "The quick brown fox jumps over the lazy dog.",
       "Typing fast is a skill's that requires practice",
       "Practice is the key to becoming a faster typist.",
       "Write clean code for others to read, not just for your self strong."
